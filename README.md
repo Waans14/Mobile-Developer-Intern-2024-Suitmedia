@@ -39,7 +39,6 @@ Suitmedia - Mobile Developer Intern 2024
   * `firstscreen`
   * `secondscreen`
   * `thirdscreen`
-* `utils`
 
 ## <a name="apk-link"></a> APK Link :
 https://mega.nz/file/on1iwagY#a2kWiRwKGKk1D13ZgC6MGbloOQwFoK231u5TLRSMyaA
