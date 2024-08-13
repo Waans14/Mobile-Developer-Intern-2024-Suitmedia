@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">KM Test Suitmedia</string>
+    <string name="name">Name</string>
+    <string name="palindrom">Palindrom</string>
+    <string name="check">CHECK</string>
+    <string name="next">NEXT</string>
+    <string name="welcome">Welcome</string>
+    <string name="second_screen">Second Screen</string>
+    <string name="selected_user_name">Selected User Name</string>
+    <string name="choose_a_user">Choose a User</string>
+    <string name="third_screen">Third Screen</string>
+    <string name="firstname_lastname">FirstName LastName</string>
+    <string name="email_gmail_com">email@gmail.com</string>
+</resources>
